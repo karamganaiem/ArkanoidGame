@@ -45,10 +45,3 @@ Arkanoid is a tile-breaking game where you control a paddle at the bottom of the
 - **Start Game**: Press 'P' on the main menu to start the game.
 - **Quit Game**: Press 'Q' to close the game after the game-over screen.
 
-## Contributing
-
-Feel free to fork the repository and make your improvements. You can submit a pull request for any changes or new features you would like to add.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
